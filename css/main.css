@@ -227,6 +227,12 @@ body {
 }
 
 @media (max-width: 550px) {
+	.bottom-decoration {
+		display: none;
+	}
+	.top-decoration {
+		display: none;
+	}
 	.header {
 		padding: 3rem;
 	}
